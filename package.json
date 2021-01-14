@@ -19,6 +19,7 @@
   "homepage": "https://github.com/masato1224/typescript-for-javascript-developers#readme",
   "dependencies": {},
   "devDependencies": {
+    "ts-node": "^9.1.1",
     "typescript": "^3.7.5"
   }
 }
